@@ -4,10 +4,10 @@
 
 ## Computer Architecture - Fall 2018
 
-###To compile/run:
+### To compile/run:
 1. make run
 
-###To clean-up: 
+### To clean-up: 
 1. make clean
 
 ## README
